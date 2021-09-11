@@ -43,14 +43,14 @@
 
 
 ## Remaining items in prioritized order
-1. ~~MySQL (2 day to complete all TODOS)~~
-2. ~~Observability~~
-3. ~~Multithreading (1 week)~~
-4. ~~API design (3 days)~~
-5. ~~RPC~~
-6. ~~Registration center~~
-7. ~~Container~~
-8. ~~Network cloud~~
+1. MySQL (2 day to complete all TODOS)
+2. Observability
+3. Multithreading (1 week)
+4. API design (3 days)
+5. RPC
+6. Registration center
+7. Container
+8. Network cloud
 9. Distributed algorithms
 10. Distributed database
 11. KV database
@@ -62,7 +62,7 @@
 17. Newsfeed lookback
 18. Instant messenger lookback
 19. ElasticSearch (2 days)
-20. ~~Distributed transactions (2 days)~~
+20. Distributed transactions (2 days)
 21. Twitter search
 22. Online coordination
 23. Google drive
